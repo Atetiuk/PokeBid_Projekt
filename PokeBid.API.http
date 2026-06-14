@@ -1,0 +1,6 @@
+@PokeBid.API_HostAddress = http://localhost:5222
+
+GET {{PokeBid.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CHHMJtLiS+l+nxB6wRQmSrDYYyyiEdQPgk62fI7JJCI=",
+  "Source": "PokeBid.API",
+  "BasePath": "_content/PokeBid.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
