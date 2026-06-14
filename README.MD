@@ -6,8 +6,8 @@ REST API do zarządzania aukcjami kart kolekcjonerskich, stworzone jako projekt 
 
 1. Otwórz terminal w głównym folderze projektu.
 2. Uruchom serwer komendą:
-   "dotnet run"
-3. Otwórz browzer i przejdź pod adres wygenerowany w terminalu z końcówką "/swagger", aby testować API.
+  `dotnet run`
+3. Otwórz browzer i przejdź pod adres wygenerowany w terminalu z końcówką `/swagger`, aby testować API.
 
 ## 2. Opis architektury
 
